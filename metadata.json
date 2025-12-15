@@ -1,0 +1,5 @@
+{
+  "name": "RF Frequency Planner",
+  "description": "A visual tool for radio frequency frontend planning. Visualize mixer harmonics, image frequencies, and frequency translation across two mixer stages.",
+  "requestFramePermissions": []
+}
